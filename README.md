@@ -8,4 +8,4 @@ Thie code meets and passes the criteria required to complete freeCodeCamp's <a h
 
 ## How it looks
 
-<img src="https://i.imgur.com/qNWLHEL.png" style="max-width: 300px" />
+<img src="https://i.imgur.com/qNWLHEL.png" style="width: 150px; height: auto" />
